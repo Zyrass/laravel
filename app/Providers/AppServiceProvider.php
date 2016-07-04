@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace shareitbaby\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
