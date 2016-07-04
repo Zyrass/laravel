@@ -67,7 +67,7 @@ Route::get('/test3/{name}/{id}', function ($name, $id) {
  *
  * @param - 1 - La route test4
  * @param - 1a - Entre accolade, on ajoute un name en paramètre
- * @param - 2 - On fait un appel à notre Controller : HomeController
+ * @param - 2 - On fait un appel à notre Controller : TestController
  * @param - 2b - @ délimite l'appel et l'action
  * @param - 2c - On indique l'action soit ici test
  */
